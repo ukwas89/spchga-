@@ -229,6 +229,38 @@ const Index = () => {
         </Card>
         </ScrollArea>
       </div>
+
+
+ <h2>Spell Check Game Online</h2>
+    <p>Dive into our <strong>Spell Check Game Online</strong>, a fun and interactive way to improve your spelling skills. This engaging platform is ideal for learners of all ages and proficiency levels, offering challenges that make learning enjoyable and effective. With real-time feedback and an easy-to-navigate interface, you'll master spelling in no time.</p>
+
+    <h2>Spell Check Game Free</h2>
+    <p>Enjoy unlimited access to spelling practice with our <strong>free spell check game</strong>! This feature-packed tool is entirely cost-free, allowing students, professionals, and language enthusiasts to enhance their vocabulary and spelling accuracy at no expense.</p>
+
+    <h2>Spell Check Game for Adults</h2>
+    <p>Tailored for grown-up learners, our <strong>Spell Check Game for Adults</strong> offers advanced exercises and vocabulary challenges. This mode is perfect for professionals looking to refine their spelling skills and boost confidence in written communication.</p>
+
+    <h2>Spell Check Free</h2>
+    <p>Looking for a quick and reliable solution? Use our <strong>Spell Check Free</strong> tool to identify and fix spelling errors instantly. Its user-friendly interface ensures fast and precise corrections, making it an essential tool for everyday writing tasks.</p>
+
+    <h2>Spell Check XYZ</h2>
+    <p>Our <strong>Spell Check XYZ</strong> feature leverages cutting-edge AI technology to provide context-aware spelling corrections. This intelligent tool not only fixes errors but also suggests improvements based on word usage and context, ensuring your writing is polished and professional.</p>
+
+    <h2>Google Spell Check</h2>
+    <p>Experience the power of <strong>Google-inspired spell check</strong> functionality, designed to provide instant spelling corrections with maximum accuracy. Whether you’re drafting an email or working on an essay, this feature ensures error-free results every time.</p>
+
+    <h2>Spell Check in Word</h2>
+    <p>Integrate our <strong>Spell Check in Word</strong> feature into your favorite word processor to detect and fix spelling errors directly within your documents. Seamlessly enhance your writing with this efficient and easy-to-use tool.</p>
+
+    <h2>Spelling Bee</h2>
+    <p>Test your spelling prowess with our exciting <strong>Spelling Bee</strong> mode! Compete against friends or practice solo to tackle tricky words and boost your confidence. This engaging feature is perfect for learners aiming to sharpen their spelling skills under timed conditions.</p>
+
+    <h2>Why Choose Our Spell Check Games?</h2>
+    <p>Our platform provides a wide variety of spelling games and tools, combining fun and learning to cater to users at every skill level. Whether you’re a beginner or an expert, these tools are designed to help you succeed in mastering the art of spelling.</p>
+
+
+      
+      
       <Footer />
     </>
   );
