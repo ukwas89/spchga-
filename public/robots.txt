@@ -14,19 +14,4 @@ Allow: /*.gif$
 Allow: /*.svg$
 Allow: /*.webp$
 
-# Disallow unnecessary or duplicate content
-Disallow: /admin/
-Disallow: /private/
-Disallow: /cgi-bin/
-Disallow: /tmp/
 
-
-# Prevent indexing of login, user profiles, and non-valuable pages
-Disallow: /wp-login.php
-Disallow: /wp-admin/
-Disallow: /?s=
-Disallow: /trackback/
-Disallow: /feed/
-Disallow: /*?replytocom
-
-# No crawl-delay for instant indexing (Google ignores this, but good for other bots)
